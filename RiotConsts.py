@@ -1,5 +1,5 @@
 URL = {
-    'base': 'https://{proxy}.api.pvp.net/api/lol/{url}',
+    'base': 'https://{proxy}.api.pvp.net/{url}',
     'champion': 'api/lol/{region}/v{version}/champion',
     'champion_by_id': 'api/lol/{region}//v{version}/champion/{id}',
     'current_game': 'observer-mode/rest/consumer/getSpectatorGameInfo/{platformId}/{summonerId}',
